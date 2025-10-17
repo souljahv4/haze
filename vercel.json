@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/haze(/.*)?",
+      "destination": "/$1"
+    }
+  ]
+}
